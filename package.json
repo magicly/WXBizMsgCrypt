@@ -1,0 +1,33 @@
+{
+  "name": "wx-msg-encrypt",
+  "version": "1.0.0",
+  "description": "weixin message encrypt.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magicly/WXBizMsgCrypt.git"
+  },
+  "keywords": [
+    "weixin",
+    "encrypt"
+  ],
+  "author": "magicly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magicly/WXBizMsgCrypt/issues"
+  },
+  "homepage": "https://github.com/magicly/WXBizMsgCrypt#readme",
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "chai": "^3.5.0"
+  },
+  "dependencies": {
+    "xml2js": "^0.4.17"
+  }
+}
